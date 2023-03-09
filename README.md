@@ -1,6 +1,6 @@
 - 👋 Olá, Me chamo Felipe Rangel, tenho 18 anos e sou estudante de Ciências da Computação pela Una.
 - 👀 Tenho interesse em HTML, CSS, Java e Javascript.
-- 🌱 Atualmente estou me aprofundando em Python, estudando sobre análise de dados e gerenciamento de dados no geral.
+- 🌱 Atualmente estou me aprofundando em Python e em desenvolvimento web, estudando sobre análise de dados e gerenciamento de dados no geral.
 - 📫 Para entrar em contato comigo você pode me escrever para feliperangel897@gmail.com
 
 <!---
