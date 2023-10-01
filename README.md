@@ -2,8 +2,8 @@
 
 Sobre mim:
 - 📚 Sou estudante da Ciência da Computação. 
-- 👀 Tenho interesse em HTML, CSS, Java, Node e Javascript.
-- 🌱 Atualmente estou me aprofundando em Python, estudando sobre análise de dados e gerenciamento de dados no geral.
+- 👀 Tenho interesse em Desenvolvimento Web
+- 🌱 Atualmente estou me aprofundando em Javascript e CSS
   
 <h3>📊 Github Analytics</h3>
 <div align="center">
