@@ -3,7 +3,7 @@
 Sobre mim:
 - 📚 Sou estudante da Ciência da Computação. 
 - 👀 Tenho interesse em Desenvolvimento Web
-- 🌱 Atualmente estou me aprofundando em Javascript e CSS
+- 🌱 Atualmente estou me aprofundando em React e PHP
   
 <h3>📊 Github Analytics</h3>
 <div align="center">
