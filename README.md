@@ -7,8 +7,8 @@ Sobre mim:
   
 <h3>📊 Github Analytics</h3>
 <div align="center">
-  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=felpoio&show_icons=true&theme=synthwave" /> 
-  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=felpoio&layout=compact&theme=synthwave"/>
+  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=felprangel&show_icons=true&theme=synthwave" /> 
+  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=felprangel&layout=compact&theme=synthwave"/>
 </div>
 
 <div style="display: inline_block"><br>
