@@ -3,7 +3,7 @@
 Sobre mim:
 - 📚 Sou estudante da Ciência da Computação e Desenvolvedor Web
 - 🌱 Atualmente estou me aprofundando em React e PHP
-- 👀 E estudando Rust por curiosidade
+- 👀 Estudando Rust por curiosidade
   
 <h3>📊 Github Analytics</h3>
 <div align="center">
