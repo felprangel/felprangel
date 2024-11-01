@@ -1,9 +1,9 @@
 # Olá, me chamo Felipe!
 
 Sobre mim:
-- 📚 Sou estudante da Ciência da Computação. 
-- 👀 Tenho interesse em Desenvolvimento Web
+- 📚 Sou estudante da Ciência da Computação e Desenvolvedor Web
 - 🌱 Atualmente estou me aprofundando em React e PHP
+- 👀 E estudando Rust por curiosidade
   
 <h3>📊 Github Analytics</h3>
 <div align="center">
